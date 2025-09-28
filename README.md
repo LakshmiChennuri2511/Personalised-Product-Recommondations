@@ -15,3 +15,5 @@
   # # https://drive.google.com/file/d/1bHFS1zt0JUKz-Xy9405xWXKWQ6guncPx/view?usp=sharing
 # the presentation document of our project in github(repository) link as follows:
  # #  https://github.com/LakshmiChennuri2511/Personalised-Product-Recommondations.git
+# the video demo of my project is follows:
+  # # https://drive.google.com/file/d/1R-L4XrPE62CbyzX03Ea1B7eVCnKI-JVY/view?usp=sharing
